@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+build/
+dist/
+nbproject/
+.dep.inc
